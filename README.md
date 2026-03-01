@@ -16,7 +16,7 @@
 
 **Connectez-vous avec moi :**
 
-<a href="https://www.linkedin.com/in/ibrahim-amza-coulibaly/">
+<a href="h[ttps://www.linkedin.com/in/ibrahim-amza-coulibaly/](https://www.linkedin.com/in/ibrahim-amza-coulibaly-206278249/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
 </a>
 <a href="https://github.com/coulamza73">
