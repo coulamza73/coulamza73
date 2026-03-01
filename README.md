@@ -15,7 +15,11 @@
 📫 Comment me joindre : ibrahim-amza.coulibaly@etu.univ-lyon1.fr
 
 Connectez-vous avec moi :  
-[![LinkedIn](https://raw.githubusercontent.com/ton-username/assets/main/linkedin.png)](https://www.linkedin.com/in/ibrahim-amza-coulibaly/)
+Connect with me:  
+[![Alt text](URL_de_l_image)](URL_du_site)
+[![LinkedIn](https://raw.githubusercontent.com/coulamza73/assets/main/linkedin.png)](https://www.linkedin.com/in/ibrahim-amza-coulibaly/) 
+[![GitHub](https://raw.githubusercontent.com/coulamza73/assets/main/github.png)](https://github.com/coulamza73)
+[![Twitter](https://raw.githubusercontent.com/coulamza73/assets/main/twitter.png)](https://twitter.com/tonprofil)
 
 **Langages et outils :**  
 Python, C, C++, MATLAB, R, SQL, Bash, Git, Jupyter, COMSOL, FreeFEM, scikit-learn, pandas, NumPy, Matplotlib, Power BI
