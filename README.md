@@ -23,5 +23,8 @@ Connect with me:
 
 
 **Langages et outils :**  
-[![C++](https://raw.githubusercontent.com/ton-username/assets/main/cpp.png)](https://isocpp.org/)
-Python, C, C++, MATLAB, R, SQL, Bash, Git, Jupyter, COMSOL, FreeFEM, scikit-learn, pandas, NumPy, Matplotlib, Power BI
+**Langages et outils :**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
