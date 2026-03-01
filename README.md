@@ -1,5 +1,5 @@
 # Bonjour 👋, je suis Ibrahim Amza Coulibaly
-(URL_de_l_image)](URL_du_site)
+
 Étudiant en 4ᵉ année de cycle ingénieur à Polytech Lyon, spécialisé en **data science, modélisation statistique et simulation numérique**. Passionné par l'analyse de données, le machine learning et les projets à fort impact.
 
 🔭 Je travaille actuellement sur des projets de **machine learning, modélisation et simulation numérique**. 
