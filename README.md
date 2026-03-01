@@ -14,12 +14,20 @@
 
 📫 Comment me joindre : ibrahim-amza.coulibaly@etu.univ-lyon1.fr
 
-Connectez-vous avec moi :  
-Connect with me:  
-[![Alt text](URL_de_l_image)](URL_du_site)
-[![LinkedIn](https://raw.githubusercontent.com/coulamza73/assets/main/linkedin.png)](https://www.linkedin.com/in/ibrahim-amza-coulibaly/) 
-[![GitHub](https://raw.githubusercontent.com/coulamza73/assets/main/github.png)](https://github.com/coulamza73)
-[![Twitter](https://raw.githubusercontent.com/coulamza73/assets/main/twitter.png)](https://twitter.com/tonprofil)
+**Connectez-vous avec moi :**
+
+<a href="https://www.linkedin.com/in/ibrahim-amza-coulibaly/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
+</a>
+<a href="https://github.com/coulamza73">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="25">
+</a>
+<a href="https://twitter.com/tonprofil">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" height="25">
+</a>
+<a href="mailto:ibrahim-amza.coulibaly@etu.univ-lyon1.fr">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="25">
+</a>
 
 
 **Langages et outils :**  
