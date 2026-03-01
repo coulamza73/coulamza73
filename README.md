@@ -23,7 +23,7 @@ Connect with me:
 
 
 **Langages et outils :**  
-**Langages et outils :**  
+![C++](https://raw.githubusercontent.com/coulamza73/coulamza73/main/assets/cpp.png)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
