@@ -1,5 +1,5 @@
 # Bonjour 👋, je suis Ibrahim Amza Coulibaly
-
+[![Alt text](URL_de_l_image)](URL_du_site)
 Étudiant en 4ᵉ année de cycle ingénieur à Polytech Lyon, spécialisé en **data science, modélisation statistique et simulation numérique**. Passionné par l'analyse de données, le machine learning et les projets à fort impact.
 
 🔭 Je travaille actuellement sur des projets de **machine learning, modélisation et simulation numérique**. 
@@ -15,7 +15,7 @@
 📫 Comment me joindre : ibrahim-amza.coulibaly@etu.univ-lyon1.fr
 
 Connectez-vous avec moi :  
-[LinkedIn](https://www.linkedin.com/in/ibrahim-amza-coulibaly/) | [GitHub](https://github.com/coulamza73)
+[![LinkedIn](https://raw.githubusercontent.com/ton-username/assets/main/linkedin.png)](https://www.linkedin.com/in/ibrahim-amza-coulibaly/)
 
 **Langages et outils :**  
 Python, C, C++, MATLAB, R, SQL, Bash, Git, Jupyter, COMSOL, FreeFEM, scikit-learn, pandas, NumPy, Matplotlib, Power BI
