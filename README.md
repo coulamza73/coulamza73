@@ -20,7 +20,8 @@ Connect with me:
 [![LinkedIn](https://raw.githubusercontent.com/coulamza73/assets/main/linkedin.png)](https://www.linkedin.com/in/ibrahim-amza-coulibaly/) 
 [![GitHub](https://raw.githubusercontent.com/coulamza73/assets/main/github.png)](https://github.com/coulamza73)
 [![Twitter](https://raw.githubusercontent.com/coulamza73/assets/main/twitter.png)](https://twitter.com/tonprofil)
-[![C++](https://raw.githubusercontent.com/ton-username/assets/main/cpp.png)](https://isocpp.org/)
+
 
 **Langages et outils :**  
+[![C++](https://raw.githubusercontent.com/ton-username/assets/main/cpp.png)](https://isocpp.org/)
 Python, C, C++, MATLAB, R, SQL, Bash, Git, Jupyter, COMSOL, FreeFEM, scikit-learn, pandas, NumPy, Matplotlib, Power BI
