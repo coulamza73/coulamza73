@@ -22,9 +22,7 @@
 <a href="https://github.com/coulamza73">
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="70">
 </a>
-<a href="https://twitter.com/tonprofil">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" height="70">
-</a>
+
 <a href="mailto:ibrahim-amza.coulibaly@etu.univ-lyon1.fr">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="70">
 </a>
