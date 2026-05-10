@@ -12,7 +12,7 @@
 - **Fashion MNIST, Titanic, solveur d'EDP, cartes RSSI**  
 - **Défis Kaggle et analyse de séries temporelles cyclables**  
 
-📫 **Comment me joindre :*** : ibrahim-amza.coulibaly@etu.univ-lyon1.fr
+📫 **Pour me joiourndre :*** : ibrahim-amza.coulibaly@etu.univ-lyon1.fr
 
 
 <a href="https://www.linkedin.com/in/ibrahim-amza-coulibaly-206278249/">
