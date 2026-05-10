@@ -6,15 +6,13 @@
 
 🌱 Je continue d'explorer des méthodes avancées de **modélisation mathématique, calcul scientifique et analyse de données**.
 
-👯 Je cherche à collaborer sur des projets qui combinent **data science, intelligence artificielle et applications concrètes**.
-
+👯Je m’intéresse particulièrement aux problématiques où **la modélisation mathématique et l’analyse de données** permettent de résoudre des cas réels : **prédiction, optimisation, systèmes complexes, modélisation stochastique, analyse de survie, estimation**
 🏆 Projets récents :  
-- Fashion MNIST, Titanic, solveur d'EDP, cartes RSSI  
-- Défis Kaggle et analyse de séries temporelles cyclables  
+- **Fashion MNIST, Titanic, solveur d'EDP, cartes RSSI**  
+- **Défis Kaggle et analyse de séries temporelles cyclables**  
 
-📫 Comment me joindre : ibrahim-amza.coulibaly@etu.univ-lyon1.fr
+📫 **Comment me joindre :*** : ibrahim-amza.coulibaly@etu.univ-lyon1.fr
 
-**Connectez-vous avec moi :**
 
 <a href="https://www.linkedin.com/in/ibrahim-amza-coulibaly-206278249/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="70">
