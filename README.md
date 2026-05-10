@@ -7,6 +7,7 @@
 🌱 Je continue d'explorer des méthodes avancées de **modélisation mathématique, calcul scientifique et analyse de données**.
 
 👯Je m’intéresse particulièrement aux problématiques où **la modélisation mathématique et l’analyse de données** permettent de résoudre des cas réels : **prédiction, optimisation, systèmes complexes, modélisation stochastique, analyse de survie, estimation**
+
 🏆 Projets récents :  
 - **Fashion MNIST, Titanic, solveur d'EDP, cartes RSSI**  
 - **Défis Kaggle et analyse de séries temporelles cyclables**  
